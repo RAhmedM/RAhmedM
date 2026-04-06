@@ -1,82 +1,86 @@
-# 👋 Hi, I'm Ahmed Mustafa
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Mustafa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💻 Backend Engineer | Cybersecurity Enthusiast | Distributed Systems
+<h3 align="center">Backend Engineer • Systems Thinker • Security Curious</h3>
 
-🔗 Portfolio: https://portfolio-one-bay-ip0aadsecn.vercel.app/  
-📧 Email: ahmed.mustafa8696@gmail.com  
-🔗 GitHub: https://github.com/RAhmedM  
-🔗 LinkedIn: https://linkedin.com/in/ahmed-mustafa  
-
----
-
-## 🚀 About Me
-
-I'm a **Python backend engineer** with hands-on experience building and scaling **distributed, networking-heavy systems**.
-
-- 🔧 Building high-performance APIs using **FastAPI**
-- ☎️ Working with **Asterisk PBX & AI voice systems**
-- 🗄️ Designing efficient database systems with **PostgreSQL**
-- 🐧 Managing **Linux production servers**
-- 🔍 Strong focus on **debugging, observability, and system reliability**
-
-I enjoy solving complex backend problems and working close to the system level.
+<p align="center">
+  <a href="https://portfolio-one-bay-ip0aadsecn.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ahmed.mustafa8696@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2c5364?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Tech Stack
-
-### 💻 Languages
-- Python, Go, JavaScript, Bash, SQL
-
-### ⚙️ Backend & APIs
-- FastAPI, Flask, Django, Express.js
-- REST API Design
-- Async Programming (asyncio)
-
-### 🗄️ Databases
-- PostgreSQL, MongoDB, Redis, SQL Server
-
-### 🌐 Systems & Networking
-- HTTP, TCP/IP
-- Distributed Systems
-- Linux Server Administration
-
-### ☁️ DevOps & Cloud
-- Docker, CI/CD, GitHub Actions
-- AWS (EC2, RDS, S3, VPC, CloudWatch)
-- Azure (Sentinel, Logic Apps)
-- Google Cloud
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
 
 ---
 
-## 💼 Experience
+## 👨‍💻 About Me
 
-### 🏢 Associate Software Engineer — XDial Networks (2025–Present)
-- Built backend services for **AI voice agents integrated with Asterisk**
-- Designed **async FastAPI services** handling real-time call flows
-- Developed CRM dashboard with live analytics
-- Managed Linux infrastructure & deployments
-- Debugged distributed systems across API, DB, and servers
+I like building systems that **actually run in production**.
 
-### 🔐 Application Security Intern — Trillium InfoSec (2024)
-- Performed **penetration testing** (SQLi, session hijacking, HTTP attacks)
-- Conducted **security audits** on APIs & authentication flows
-- Implemented **OWASP-based hardening**
+- ⚙️ Backend engineering with focus on **performance & reliability**
+- ☎️ Real-time systems (voice, APIs, distributed flows)
+- 🐧 Linux, networking, and debugging weird issues
+- 🔐 Security & low-level system behavior
 
 ---
 
-## 🛠️ Projects
+## ⚡ Tech I Work With
 
-### 🔎 Azure Sentinel SIEM & Automation
-- Built centralized **SIEM system for real-time threat detection**
-- Created **KQL-based log pipelines**
-- Automated incident response → ⬇️ response time by 60%
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,js,postgres,docker,linux,aws,git" />
+</p>
+
+---
+
+## 🧠 What I Care About
+
+- Clean architecture > hype frameworks  
+- Systems that scale > scripts that work once  
+- Debugging > guessing  
+- Learning how things work under the hood  
 
 ---
 
-## 🏆 Certifications
-
-- Google Cloud (Multiple Certifications)
-- Fortinet NSE 1 – Network Security Associate
+<!-- Terminal GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
 
 ---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAhmedM&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-mustafa">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mustafa-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build things that don't break at 3AM.”</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>

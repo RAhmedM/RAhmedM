@@ -1,67 +1,71 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Mustafa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ahmed%20Mustafa&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Backend Engineer • Systems Thinker • Security Curious</h3>
+<h3 align="center">Backend Engineer • Distributed Systems • Security</h3>
 
 <p align="center">
   <a href="https://portfolio-one-bay-ip0aadsecn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-141E30?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ahmed.mustafa8696@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2c5364?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-243B55?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Coding GIF -->
+<!-- Clean coding animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I like building systems that **actually run in production**.
+I build backend systems that are **fast, reliable, and don’t fall apart under load**.
 
-- ⚙️ Backend engineering with focus on **performance & reliability**
-- ☎️ Real-time systems (voice, APIs, distributed flows)
-- 🐧 Linux, networking, and debugging weird issues
-- 🔐 Security & low-level system behavior
+- ⚙️ APIs, async systems, real-time flows  
+- ☎️ Telephony + distributed services  
+- 🐧 Linux, networking, debugging production issues  
+- 🔐 Security mindset (not just features, but resilience)
 
 ---
 
-## ⚡ Tech I Work With
+## ⚡ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,postgres,docker,linux,aws,git" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,postgres,redis,docker,linux,aws,git" />
 </p>
 
 ---
 
-## 🧠 What I Care About
+## 🧠 Mindset
 
-- Clean architecture > hype frameworks  
-- Systems that scale > scripts that work once  
+- Systems > scripts  
 - Debugging > guessing  
-- Learning how things work under the hood  
+- Simplicity > overengineering  
 
 ---
 
-<!-- Terminal GIF -->
+<!-- Terminal aesthetic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAhmedM&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RAhmedM&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Alternative stats (more reliable) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAhmedM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -69,7 +73,7 @@ I like building systems that **actually run in production**.
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-mustafa-335131264">
+  <a href="https://linkedin.com/in/ahmed-mustafa">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mustafa-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -77,10 +81,10 @@ I like building systems that **actually run in production**.
 ---
 
 <p align="center">
-  <i>“Build things that don't break at 3AM.”</i>
+  <i>"If it works locally, it's not done yet."</i>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>

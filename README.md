@@ -24,7 +24,7 @@
 I like building systems that **actually run in production**.
 
 - ⚙️ Backend engineering with focus on **performance & reliability**  
-- ☎️ Real-time systems (voice, APIs, distributed flows)  
+- ☎️ Real-time systems (voice agents, APIs, distributed flows)  
 - 🐧 Linux, networking, and debugging weird issues  
 - 🔐 Security & low-level system behavior  
 

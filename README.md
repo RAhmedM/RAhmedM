@@ -69,7 +69,7 @@ I like building systems that **actually run in production**.
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-mustafa">
+  <a href="https://linkedin.com/in/ahmed-mustafa-335131264">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mustafa-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>

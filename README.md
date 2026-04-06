@@ -52,8 +52,6 @@ I like building systems that **actually run in production**.
   <img src="https://streak-stats.demolab.com?user=RAhmedM&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAhmedM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <p align="center">

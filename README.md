@@ -80,8 +80,3 @@ I enjoy solving complex backend problems and working close to the system level.
 - Fortinet NSE 1 – Network Security Associate
 
 ---
-
-## 📊 GitHub Stats
-
-```bash
-# (Optional: Use GitHub stats cards like below)

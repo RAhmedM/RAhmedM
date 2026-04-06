@@ -48,10 +48,7 @@ I like building systems that **actually run in production**.
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAhmedM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RAhmedM&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RAhmedM&theme=tokyonight&hide_border=true" />
